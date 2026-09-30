@@ -1,0 +1,62 @@
+Resume Writing Best Practices
+
+Structuring Bullet Points
+Use the format: Action Verb + Task + Result/Impact (quantified where possible).
+Weak: "Responsible for managing a team."
+Strong: "Led a team of 5 engineers to deliver a payments migration 3 weeks ahead of
+schedule, reducing transaction latency by 40%."
+
+Strong action verbs by category:
+- Leadership: Led, Directed, Coordinated, Mentored, Managed
+- Building/Creating: Built, Designed, Developed, Architected, Implemented
+- Improving: Optimized, Streamlined, Automated, Reduced, Increased
+- Analysis: Analyzed, Evaluated, Diagnosed, Investigated
+Avoid weak, passive phrasing like "Responsible for", "Worked on", "Helped with" -
+these describe duties, not accomplishments.
+
+Quantifying Impact
+Whenever possible, attach a number: percentage improvement, time saved, users
+affected, revenue impact, dataset size, latency reduced, test coverage increased.
+If you don't have an exact number, a reasonable, honest estimate ("approximately",
+"an estimated") is far better than no number at all - it still tells a reviewer the
+scale of what you did. Never fabricate metrics.
+
+Student and Fresher Resumes
+- Lead with Education and Skills, not a thin Experience section.
+- Projects should be the centerpiece: 3-5 well-described projects outperform a padded
+  experience section with vague internships.
+- Include coursework, hackathons, and open-source contributions - these substitute
+  for professional experience and show initiative.
+- A one-page resume is almost always correct at this stage. Recruiters spend seconds,
+  not minutes, on early screens.
+
+Experienced Professional Resumes
+- Lead with a concise professional summary (2-3 lines) tailored to the target role.
+- Order experience reverse-chronologically, with the most recent/relevant role having
+  the most detail (4-6 bullets); older roles can be condensed to 2-3 bullets.
+- Emphasize business impact and leadership, not just technical tasks.
+- Two pages is acceptable for 7+ years of experience; otherwise, aim for one page.
+
+Project Description Quality
+A strong project description answers: What problem did this solve? What was the
+technical approach/stack? What was the outcome or scale? A weak description just
+lists a tech stack ("Built with React, Node.js, MongoDB") without explaining what
+the project does or why it matters.
+
+Common Resume Mistakes
+- Generic objective statements that add no information ("Seeking a challenging role
+  to utilize my skills").
+- Listing every technology ever touched instead of curating to what's relevant and
+  genuinely proficient.
+- Inconsistent tense (mixing past and present tense for current vs. past roles).
+- Typos and grammar errors - these are disproportionately damaging because they signal
+  lack of attention to detail, which is core to most technical roles.
+- Unexplained employment gaps longer than 6 months - a brief, honest one-line
+  explanation is better than silence.
+
+Formatting for Readability
+- Use consistent spacing, bullet style, and date alignment throughout.
+- Bold job titles or company names (not both) to create visual hierarchy without clutter.
+- Limit each bullet to 1-2 lines; if it wraps to a third line, it's usually too long.
+- White space matters - a dense, cramped resume is harder to skim than one with
+  breathing room, even if it means being more selective about content.

@@ -1,0 +1,51 @@
+Skill Roadmaps and Career Guidance by Track
+
+Backend Development Track
+Foundational: one language deeply (Python/Java/Node.js/Go), data structures &
+algorithms, SQL, REST API design and HTTP fundamentals, Git version control.
+Intermediate: a web framework (Django/Spring Boot/Express/FastAPI), authentication &
+authorization, caching (Redis), message queues (Kafka/RabbitMQ), containerization
+(Docker), basic cloud (AWS/GCP/Azure fundamentals).
+Advanced: system design and distributed systems, database internals and indexing
+strategy, observability (logging/metrics/tracing), CI/CD pipelines, Kubernetes.
+
+Frontend Development Track
+Foundational: HTML/CSS/JavaScript fundamentals, responsive design, a modern framework
+(React/Vue/Angular), Git.
+Intermediate: state management (Redux/Zustand/Context API), TypeScript, testing
+(Jest/React Testing Library), build tools (Vite/Webpack), accessibility (WCAG basics),
+performance optimization (lazy loading, code splitting).
+Advanced: server-side rendering/Next.js, design systems, micro-frontends, advanced
+performance profiling, web security fundamentals (XSS/CSRF/CSP).
+
+Data Science / Machine Learning Track
+Foundational: Python, statistics and probability, pandas/NumPy, SQL, data
+visualization (Matplotlib/Seaborn), a version of scikit-learn for classical ML.
+Intermediate: deep learning fundamentals (PyTorch or TensorFlow), feature engineering,
+model evaluation and validation strategy, experiment tracking, basic MLOps (model
+deployment).
+Advanced: large-scale model training, LLM fine-tuning and prompt engineering,
+production ML systems and monitoring, A/B testing for ML products.
+
+DevOps / Cloud Track
+Foundational: Linux fundamentals, shell scripting, Git, networking basics, one cloud
+provider (AWS/GCP/Azure).
+Intermediate: Docker and container orchestration (Kubernetes), Infrastructure as Code
+(Terraform), CI/CD pipelines (GitHub Actions/Jenkins), monitoring (Prometheus/Grafana).
+Advanced: multi-cloud/hybrid architecture, security hardening and compliance,
+cost optimization at scale, site reliability engineering practices.
+
+General Career Guidance
+- Build 1-2 substantial projects that solve a real (even if small) problem, over many
+  shallow tutorial-clone projects. Depth demonstrates more than breadth at early career
+  stages.
+- Contribute to open source: it's a genuine skill signal and gives you real code review
+  experience with strangers, which mirrors workplace collaboration.
+- Certifications matter most when paired with demonstrated project work; a certification
+  alone with no applied evidence is a weaker signal than one project that used the skill.
+- For career switchers: explicitly bridge your prior domain expertise with your new
+  technical skills in your resume summary - "5 years in finance + newly built ML skills"
+  is a differentiator, not a liability, when framed correctly.
+- Networking and referrals materially increase interview conversion rates compared to
+  cold applications; attend meetups, engage on professional platforms, and reach out to
+  alumni at target companies.

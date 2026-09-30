@@ -1,0 +1,48 @@
+Ananya Rao
+Bengaluru, India | ananya.rao.dev@gmail.com | +91 98765 43210
+linkedin.com/in/ananya-rao-dev | github.com/ananyarao | ananyarao.dev
+
+EDUCATION
+B.Tech in Computer Science, RV College of Engineering — 2026 (Expected)
+CGPA: 8.7/10
+
+SKILLS
+Programming Languages: Python, Java, JavaScript, SQL
+Frameworks: React, Flask, Node.js
+Databases: MySQL, MongoDB
+Tools: Git, Docker, Postman
+Cloud: AWS (EC2, S3 basics)
+
+PROJECTS
+Campus Marketplace App | React, Node.js, MongoDB, Socket.io
+Built a full-stack web app allowing students to buy/sell used textbooks and
+electronics within campus. Implemented real-time chat between buyers and sellers
+using Socket.io and JWT-based authentication. Deployed on Render, used by 200+
+students in the first semester of launch.
+github.com/ananyarao/campus-marketplace
+
+Attendance Automation System | Python, OpenCV, Flask, SQLite
+Developed a face-recognition based attendance system for classroom use, reducing
+manual attendance-taking time from 5 minutes to under 30 seconds per class of 60
+students. Built a Flask dashboard for faculty to view attendance trends.
+github.com/ananyarao/attendance-automation
+
+Personal Finance Tracker | Java, Android Studio, SQLite
+Android app for tracking personal expenses with category-wise budgeting and monthly
+spend charts. Solo project built to learn Android development fundamentals.
+
+INTERNSHIP
+Software Engineering Intern, Zeta Labs (Remote) | May 2025 - Jul 2025
+Worked on the backend team maintaining REST APIs for an internal analytics tool.
+Fixed 15+ bugs reported via the internal tracker and wrote unit tests improving
+coverage from 62% to 78% for the payments module. Participated in daily standups
+and sprint planning as part of a 6-person agile team.
+
+CERTIFICATIONS
+AWS Cloud Practitioner Essentials, Amazon Web Services, 2025
+Meta Front-End Developer (in progress), Coursera, 2025
+
+ACHIEVEMENTS
+1st place, Smart India Hackathon (college round), 2025
+Finalist, HackBangalore 36-hour hackathon, 2024
+Published a blog post on Socket.io real-time architecture, 1,200+ reads on Medium

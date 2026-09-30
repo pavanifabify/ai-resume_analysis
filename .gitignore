@@ -1,0 +1,18 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Runtime data (auto-generated, should not be committed)
+database/*.db
+vector_store/*.index
+vector_store/*.json
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

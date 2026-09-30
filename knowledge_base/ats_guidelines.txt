@@ -1,0 +1,46 @@
+ATS (Applicant Tracking System) Resume Guidelines
+
+What is an ATS
+An Applicant Tracking System is software that companies use to collect, scan, and rank
+resumes before a human recruiter ever sees them. A large share of mid-size and large
+companies use some form of ATS. If your resume is not ATS-friendly, it may never reach
+a human reviewer, regardless of how qualified you are.
+
+Formatting Rules for ATS Compatibility
+1. Use a single-column layout. Multi-column layouts, text boxes, and tables often get
+   scrambled or skipped entirely by ATS parsers.
+2. Use standard section headings: "Experience", "Education", "Skills", "Projects".
+   Creative headings like "My Journey" or "What I Bring" may not be recognized.
+3. Save as .pdf (text-based, not scanned) or .docx unless the application specifies
+   otherwise. Avoid image-based PDFs, as ATS cannot read text embedded in images.
+4. Avoid headers/footers for critical information (name, contact info) - some ATS
+   systems do not parse header/footer regions.
+5. Use standard fonts (Arial, Calibri, Times New Roman) at 10-12pt. Avoid decorative
+   fonts.
+6. Avoid graphics, icons, and charts to represent skill levels - ATS cannot interpret
+   a visual "skill bar" and it wastes space that could hold parseable keywords.
+7. Spell out acronyms at least once (e.g., "Search Engine Optimization (SEO)") so both
+   ATS keyword matching and human reviewers understand you.
+
+Keyword Optimization
+- Mirror the exact terminology used in the job description where truthful. If the JD
+  says "React.js" and you know React, write "React.js", not just "front-end framework".
+- Include both the acronym and full term for key technologies (e.g., "Machine Learning
+  (ML)").
+- Place your most relevant skills and keywords near the top third of the resume, since
+  some ATS ranking algorithms weight earlier content more heavily.
+- Do not keyword-stuff invisible white text or hidden characters to game the ATS - many
+  modern systems flag this and it looks dishonest if a human ever inspects the file.
+
+Common ATS Rejection Reasons
+- Contact information not in the body text (e.g., only in a text box or image).
+- Non-standard date formats that confuse the parser (use "Jan 2023 - Present" or
+  "01/2023 - Present" consistently).
+- Missing an explicit skills section, forcing the ATS to infer skills from prose.
+- File corruption or password protection preventing the file from opening at all.
+
+ATS Compatibility Score Factors
+When evaluating ATS compatibility, consider: single-column layout, standard section
+headers, appropriate file format, absence of tables/images for critical content,
+keyword alignment with target roles, consistent date formatting, and a clear,
+parseable skills section.

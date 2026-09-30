@@ -1,0 +1,19 @@
+streamlit==1.38.0
+python-dotenv==1.0.1
+
+# Document processing
+PyMuPDF==1.24.10
+python-docx==1.1.2
+
+# LLM providers (both included; you only need the key for the one you configure)
+openai==1.51.0
+google-generativeai==0.8.3
+
+# Embeddings + vector search
+sentence-transformers==3.1.1
+faiss-cpu==1.8.0.post1
+numpy==1.26.4
+
+# Optional: only needed if you extend rag_pipeline.py with LangChain chains
+langchain==0.3.1
+langchain-community==0.3.1

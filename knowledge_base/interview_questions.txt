@@ -1,0 +1,48 @@
+Interview Preparation Guide
+
+Types of Technical Interviews
+1. Coding/DSA rounds - data structures, algorithms, problem-solving under time pressure.
+2. System design rounds - architecture, scalability, trade-offs (usually for 2+ years
+   experience, but entry-level system design is increasingly common at larger companies).
+3. Behavioral rounds - past experiences, teamwork, conflict resolution, using
+   frameworks like STAR (Situation, Task, Action, Result).
+4. Take-home assignments - a scoped project to assess real-world coding ability and
+   code quality, not just algorithmic speed.
+
+Preparing for Coding Rounds
+- Practice explaining your thought process out loud, not just arriving at the answer.
+  Interviewers weight communication and approach heavily, not just correctness.
+- Cover core topics: arrays/strings, hashmaps, trees/graphs, recursion/DP, sorting/
+  searching, and time/space complexity analysis.
+- Practice on a whiteboard or plain text editor occasionally, since many interviews
+  don't offer autocomplete or syntax highlighting.
+
+Preparing for Behavioral Rounds (STAR Method)
+- Situation: briefly set the context.
+- Task: what were you responsible for?
+- Action: what did YOU specifically do (not "we")?
+- Result: what was the measurable or observed outcome, and what did you learn?
+Prepare 5-6 flexible stories covering: a conflict you resolved, a failure you learned
+from, a time you led without formal authority, a time you dealt with ambiguity, and a
+proud technical accomplishment.
+
+Questions to Ask the Interviewer
+Strong candidates ask thoughtful questions that show genuine interest: "What does
+success look like in this role after 6 months?", "What's the biggest technical
+challenge the team is facing right now?", "How does the team handle code review and
+technical debt?" Avoid questions answerable by a 30-second look at the company website.
+
+Resume-to-Interview Consistency
+Every bullet point on your resume is a potential interview question - be ready to go
+deep on any project or achievement you list. Interviewers frequently probe claimed
+metrics ("how did you measure that 40% improvement?") - be prepared to explain your
+methodology, not just restate the number. Do not list a skill you cannot discuss
+competently for at least a few minutes; being caught unable to explain a "skill" listed
+on your resume damages credibility more than not listing it at all.
+
+Salary Negotiation Basics
+- Research market rate for the role, location, and experience level before any
+  numbers are discussed.
+- Let the employer state a number first when possible.
+- If given a range, negotiate toward the top of the range, not the middle.
+- Consider the full package (base, bonus, equity, benefits), not just base salary.
